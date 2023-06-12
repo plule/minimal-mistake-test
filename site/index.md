@@ -27,14 +27,14 @@ can then be opened in a software such as MagicaVoxel to render it.
 
 ## Download
 
-[Download Latest]({{%include latest-download.html%}}){: .btn .btn--info}
+[Download Latest]({%include latest-download.html%}){: .btn .btn--info}
 
 ## Guide
 
 Vox Uristi is in development. The exported map is lacking important features,
 and could not work at all in some cases. Please report any issue you see. Save
 your game before exporting, as certain bug could trigger a Dwarf Fortress crash
-{: .notice--warning }
+{: .notice--danger }
 
 First, ensure you have [Dwarf
 Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/) with
