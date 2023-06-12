@@ -6,6 +6,7 @@ url: https://plule.github.io
 baseurl: /minimal-mistake-test
 repository: plule/minimal-mistake-test
 logo: /assets/icon.png
+include: ["_pages"]
 compress_html:
   clippings: all
 markdown: kramdown
