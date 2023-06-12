@@ -1,7 +1,9 @@
 main:
-  - title: "Home page"
+  - title: "Home"
     url: /
   - title: "Gallery"
     url: /gallery
   - title: Tips and troubleshooting
     url: /tips
+  - title: Changelog
+    url: /changelog

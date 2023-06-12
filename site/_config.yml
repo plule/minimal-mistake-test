@@ -1,7 +1,7 @@
 title: ☼Vox Uristi☼
 description: Create beautiful renders of your Dwarf Fortress game
 github_username: plule
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: dark
 url: https://plule.github.io
 baseurl: /minimal-mistake-test
 repository: plule/minimal-mistake-test

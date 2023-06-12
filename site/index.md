@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "#download"
-    - label: "View on Github"
+    - label: "<i class='fas fa-external-link-alt'></i> View on Github"
       url: "https://github.com/plule/vox-uristi"
 permalink: /
 toc: true
@@ -27,11 +27,7 @@ can then be opened in a software such as MagicaVoxel to render it.
 
 ## Download
 
-[Download Latest]({%include latest-download.html%}){: .btn .btn--info}
-
-## Guide
-
-Vox Uristi is in development. The exported map is lacking important features,
+⚠ Vox Uristi is in development. The exported map is lacking important features,
 and could not work at all in some cases. Please report any issue you see. Save
 your game before exporting, as certain bug could trigger a Dwarf Fortress crash
 {: .notice--danger }
@@ -42,7 +38,9 @@ Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/) with
 Vox Uristi is mostly tested with the latest Steam release, but could work with
 previous versions too.
 
-Download [Vox Uristi]({% include latest-download.html %}).
+[Download Latest]({%include latest-download.html%}){: .btn .btn--info}
+
+## Usage
 
 While in game in the save you wish to export, run Vox Uristi and select the
 upper and lower bound to export. Only the zone between these two altitudes will
@@ -53,8 +51,9 @@ of your map.
 
 Once exported, open the `.vox` file with [MagicaVoxel](https://ephtracy.github.io/).
 
-> ⚠ The same website has a dedicated voxel viewer. At the moment, the exported
-> files are not correctly rendered by this viewer.
+⚠ The same website has a dedicated voxel viewer. At the moment, the exported
+files are not correctly rendered by this viewer.
+{: .notice--danger }
 
 You can see the whole process on this mod spotlight made by Blind: [How-to Video](https://www.youtube.com/watch?v=CDqMuBZsNH0).
 
@@ -76,54 +75,6 @@ You can see the whole process on this mod spotlight made by Blind: [How-to Video
 - ☐ Rails
 - ☐ Advanced export parameters (enable/disable/control amount of folliage,
   roughness voxels, building content...)
-
-## Version History
-
-### v0.10
-
-- Spatters (fallen leaves, snow, blood, vomit...)
-- Optimize the exported palette
-- Support larger embark size
-
-### v0.9
-
-- Render building content
-- Add many more models, covering nearly all the buildings
-
-### v0.8
-
-- Export materials (glass, transparency, light emission)
-
-### v0.7
-
-- Bumped the vertical resolution from 3 to 5
-- Workshops
-- Reviewed many models
-
-### v0.6
-
-- Take in account the time of the year when creating the vegetation folliage
-
-### v0.5
-
-- Mist, waves and smoke
-
-### v0.4
-
-- Furnitures (bed, table, chairs, statues, etc...)
-
-### v0.3
-
-- Initial support for some construction buildings
-
-### v0.2
-
-- Better ramps and stairs
-- Support auto-update
-
-### v0.1
-
-- Initial release with support of basic shapes
 
 ## Other Dwarf Fortress visualisation tools
 
