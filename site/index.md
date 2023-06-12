@@ -1,15 +1,18 @@
 ---
 title: "☼Vox Uristi☼"
 layout: splash
+permalink: /
 header:
   overlay_filter: 0.5
   overlay_image: /assets/gallery/banner.jpg
-permalink: /
-toc: true
+actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url:
+        latest-download: {}
 ---
 
-[<i class='fas fa-download'></i> Download Latest]({%include latest-download.html%}){: .btn .btn--info}
-[<i class='fas fa-external-link-alt'></i> View on Github](https://github.com/plule/vox-uristi){: .bnt}
+[<i class='fas fa-download'></i> Download Latest]({%include latest-download.html%}){: .btn .btn--success .btn--x-large}
+[<i class='fas fa-external-link-alt'></i> View on Github](https://github.com/plule/vox-uristi){: .bnt .btn--inverse .btn--x-large}
 
 ## Introduction
 
@@ -49,7 +52,9 @@ Once exported, open the `.vox` file with [MagicaVoxel](https://ephtracy.github.i
 files are not correctly rendered by this viewer.
 {: .notice--danger }
 
-You can see the whole process on this mod spotlight made by Blind: [How-to Video](https://www.youtube.com/watch?v=CDqMuBZsNH0).
+You can see the whole process on this mod spotlight made by Blind.
+
+{% include video id="CDqMuBZsNH0" provider="youtube" %}
 
 ## Features/Roadmap
 
