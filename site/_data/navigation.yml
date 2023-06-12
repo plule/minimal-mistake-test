@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Usage"
     url: /usage
   - title: "Gallery"
