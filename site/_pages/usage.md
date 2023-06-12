@@ -4,6 +4,8 @@ layout: single
 permalink: /usage
 ---
 
+[<i class='fas fa-download'></i> Download Latest]({%include latest-download.html%}){: .btn .btn--success .btn--x-large}
+
 ⚠ Vox Uristi is in development. The exported map is lacking important features,
 and could not work at all in some cases. Please report any issue you see. Save
 your game before exporting, as certain bug could trigger a Dwarf Fortress crash
