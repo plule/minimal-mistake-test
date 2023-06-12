@@ -8,7 +8,7 @@ header:
 ---
 
 [<i class='fas fa-download'></i> Download Latest]({%include latest-download.html%}){: .btn .btn--success .btn--x-large}
-[<i class='fas fa-external-link-alt'></i> View on Github]({% https://github.com/plule/vox-uristi %}){: .bnt .btn--primary .btn--x-large}
+[<i class='fas fa-external-link-alt'></i> View on Github](https://github.com/plule/vox-uristi){: .bnt .btn--primary .btn--x-large}
 
 **Vox Uristi** exports Dwarf Fortress maps in a voxel format to create beautiful
 rendering of your fortresses.
