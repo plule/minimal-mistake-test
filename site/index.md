@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/download"
-    - label: "<i class="fas fa-external-link-alt"></i> View on Github"
+    - label: "View on Github"
       url: "https://github.com/plule/vox-uristi"
 permalink: /
 toc: true
