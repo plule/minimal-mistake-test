@@ -1,5 +1,12 @@
 ---
 title: "☼Vox Uristi☼"
+layout: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/gallery/banner.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "{% include latest-download.html %}"
 permalink: /
 toc: true
 ---
