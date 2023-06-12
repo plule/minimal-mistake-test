@@ -1,4 +1,10 @@
-# ☼Vox Uristi☼
+---
+title: "☼Vox Uristi☼"
+permalink: /
+toc: true
+---
+
+## Introduction
 
 Export your Dwarf Fortress map in a voxel format to create beautiful rendering
 of your fortresses.
