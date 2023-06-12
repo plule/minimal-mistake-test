@@ -16,8 +16,6 @@ toc: true
 Export your Dwarf Fortress map in a voxel format to create beautiful rendering
 of your fortresses.
 
-![arelumid](assets/gallery/banner.jpg)
-
 **Vox Uristi** uses [DFHack's
 RemoteFortressReader](https://docs.dfhack.org/en/stable/docs/tools/RemoteFortressReader.html)
 to read the fortress data and export it in the `.vox` format. The resulting file
