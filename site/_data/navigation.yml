@@ -3,3 +3,5 @@ main:
     url: /
   - title: "Gallery"
     url: /gallery
+  - title: Tips and troubleshooting
+    url: /tips

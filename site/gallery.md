@@ -1,6 +1,7 @@
 ---
 title: "Gallery"
 layout: single
+permalink: /gallery
 enorid:
     - url: /assets/gallery/saziramost.jpg
       image_path: /assets/gallery/saziramost.jpg
