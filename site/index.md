@@ -8,7 +8,7 @@ header:
 ---
 
 [<i class='fas fa-download'></i> Download Latest]({%include latest-download.html%}){: .btn .btn--success .btn--x-large}
-[<i class='fas fa-external-link-alt'></i> View on Github](https://github.com/plule/vox-uristi){: .bnt .btn--primary .btn--x-large}
+[<i class='fas fa-external-link-alt'></i> View on Github](https://github.com/plule/vox-uristi){: .btn .btn--primary .btn--x-large}
 
 **Vox Uristi** exports Dwarf Fortress maps in a voxel format to create beautiful
 rendering of your fortresses.
@@ -17,7 +17,9 @@ It uses DFHack to read the fortress data and export it in the `.vox` format. The
 resulting file can then be opened in a software such as MagicaVoxel to render
 it.
 
-{% include figure image_path="/assets/gallery/winebolted-gate.jpg" alt="fortress gate" caption="The gates of the Winebolted fortress" %}
+<video autoplay="autoplay" loop="loop" width="800" height="800">
+  <source src="/vox-uristi/assets/gallery/heavenfall-spin.webm" type="video/webm">
+</video>
 
 ## Features/Roadmap
 
