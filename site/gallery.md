@@ -1,5 +1,6 @@
 ---
 title: "Gallery"
+layout: single
 enorid:
     - image_path: /assets/gallery/saziramost.jpg
       title: The bridge of Saziramost at the time of its destruction
