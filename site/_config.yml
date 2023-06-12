@@ -8,7 +8,7 @@ repository: plule/minimal-mistake-test
 logo: /assets/icon.png
 compress_html:
   clippings: all
-
+markdown: kramdown
 defaults:
   - scope:
       path: ""

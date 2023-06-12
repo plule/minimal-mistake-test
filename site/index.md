@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/gallery/banner.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/download"
+      url: "#download"
     - label: "View on Github"
       url: "https://github.com/plule/vox-uristi"
 permalink: /
@@ -25,12 +25,16 @@ can then be opened in a software such as MagicaVoxel to render it.
 
 {% include figure image_path="/assets/gallery/winebolted-gate.jpg" alt="fortress gate" caption="The gates of the Winebolted fortress" %}
 
+## Download
+
+[Download Latest]({{%include latest-download.html%}}){: .btn .btn--info}
+
 ## Guide
 
-> ⚠ Vox Uristi is in development. The exported map is lacking important
-> features, and could not work at all in some cases. Please report any issue you
-> see. Save your game before exporting, as certain bug could trigger a Dwarf
-> Fortress crash
+Vox Uristi is in development. The exported map is lacking important features,
+and could not work at all in some cases. Please report any issue you see. Save
+your game before exporting, as certain bug could trigger a Dwarf Fortress crash
+{: .notice--warning }
 
 First, ensure you have [Dwarf
 Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/) with
