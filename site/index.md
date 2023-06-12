@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/gallery/banner.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "<% include latest-download.html %>"
+      url: "/download"
     - label: "<i class="fas fa-external-link-alt"></i></i> View on Github"
       url: "https://github.com/plule/vox-uristi"
 permalink: /
