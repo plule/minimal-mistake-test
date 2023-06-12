@@ -17,14 +17,10 @@ It uses DFHack to read the fortress data and export it in the `.vox` format. The
 resulting file can then be opened in a software such as MagicaVoxel to render
 it.
 
-<figure>
-  <video autoplay="autoplay" loop="loop" width="800" height="800">
-    <source src="/vox-uristi/assets/gallery/heavenfall-spin.webm" type="video/webm">
-  </video>
-  <figcaption>
-    Heavenfall, a fortress by Horrigant
-  </figcaption>
-</figure>
+
+| <video autoplay="autoplay" loop="loop" width="800" height="800"><source src="/vox-uristi/assets/gallery/heavenfall-spin.webm" type="video/webm"></video> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Heavenfall, a fortress by Horrigant*                                                                                                                    |
 
 ## Features/Roadmap
 
