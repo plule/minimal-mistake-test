@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "<% include latest-download.html %>"
-    - label: "<i class="fa-brands fa-github"></i> View on Github"
+    - label: "<i class="fas fa-external-link-alt"></i></i> View on Github"
       url: "https://github.com/plule/vox-uristi"
 permalink: /
 toc: true
@@ -22,6 +22,8 @@ of your fortresses.
 RemoteFortressReader](https://docs.dfhack.org/en/stable/docs/tools/RemoteFortressReader.html)
 to read the fortress data and export it in the `.vox` format. The resulting file
 can then be opened in a software such as MagicaVoxel to render it.
+
+{% include figure image_path="/assets/gallery/winebolted-gate.jpg" alt="fortress gate" caption="The gates of the Winebolted fortress" %}
 
 ## Guide
 
