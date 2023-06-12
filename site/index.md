@@ -2,11 +2,11 @@
 title: "☼Vox Uristi☼"
 layout: splash
 header:
-  overlay_color: "#5e616c"
+  overlay_filter: 0.5
   overlay_image: /assets/gallery/banner.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "{% include latest-download.html %}"
+      url: "<% include latest-download.html %>"
     - label: "<i class='fas fa-download'></i> View on Github"
       url: "github.com/plule/vox-uristi"
 permalink: /
